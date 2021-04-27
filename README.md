@@ -3,7 +3,7 @@
 Old classic snake game with new enemy
 
 ## Build
-- Running setup.bat to build file play.exe
+- Run setup.bat to build the game
 
 ## Play
-- Double click file play.exe
+- Execute play.exe
